@@ -22,3 +22,8 @@ This dashboard provides real-time insights into sales data, empowering business 
 * **Backend**: Node.js / Flask / Django
 * **Database**: MySQL / PostgreSQL / MongoDB
 * **Visualization**: Chart.js / D3.js / Power BI integration
+
+### Project Objective
+The primary goal of this project is to streamline the sales monitoring process through a visually rich, data-driven dashboard. By leveraging advanced data visualization and reporting
+
+
